@@ -43,7 +43,9 @@
         </path>
       </g>
          <text text-anchor="middle" dominant-baseline="middle" x="50%" y="30%" class="text" style="fill:#ffffff;" stroke="#none" stroke-width="1" >MATHEUS CASTRO</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="49%" class="desc" style="fill:#ffffff;">From air defense to Software Engineering</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="59%" class="desc" style="fill:#ffffff;">.NET · Azure · Agentic development</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="49%" class="desc" style="fill:#ffffff;">
+            <tspan x="50%" dy="0">&lt; From Air Defense to Software Engineering &gt;</tspan>
+            <tspan x="50%" dy="24px">· .NET · Azure · Agentic development</tspan>
+         </text>
       </svg>
     
