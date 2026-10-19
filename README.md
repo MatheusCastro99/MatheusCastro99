@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+gather%2C+decide%2C+build%2C+review%2C+ship" alt="Typing SVG" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MatheusCastro99&style=for-the-badge&color=0078d4&label=VISITORS)
 ![Followers](https://img.shields.io/github/followers/MatheusCastro99?style=for-the-badge&logo=github&color=50e6ff&labelColor=0a1929)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMatheusCastro99&query=%24.public_repos&label=PUBLIC%20REPOS&style=for-the-badge&logo=git&color=0078d4&labelColor=0a1929)
 
