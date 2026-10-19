@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1929,50:0078d4,100:50e6ff&height=220&section=header&text=MATHEUS%20CASTRO&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=From%20air%20defense%20to%20cloud%20apps%20%C2%B7%20.NET%20%C2%B7%20Azure%20%C2%B7%20Agentic%20development&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Matheus Castro" />
+<!-- Header: generated with capsule-render, then edited for the two-line subtitle -->
+<img src="assets/header.svg" width="100%" alt="Matheus Castro: From air defense to Software Engineering. .NET, Azure, Agentic development" />
 
 <a href="https://github.com/MatheusCastro99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+gather%2C+decide%2C+build%2C+review%2C+ship" alt="Typing SVG" />
