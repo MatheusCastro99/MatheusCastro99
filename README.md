@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Header: generated with capsule-render, then edited for the two-line subtitle -->
-<img src="assets/header.svg" width="100%" alt="Matheus Castro: From air defense to Software Engineering. .NET, Azure, Agentic development" />
+<img src="assets/header.svg" width="100%" alt="Matheus Castro: From Air Defense to Software Engineering. .NET, Azure, Agentic development" />
 
 <a href="https://github.com/MatheusCastro99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+gather%2C+decide%2C+build%2C+review%2C+ship" alt="Typing SVG" />
