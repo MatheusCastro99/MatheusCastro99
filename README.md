@@ -95,10 +95,6 @@ flowchart TB
 
 <img src="https://streak-stats.demolab.com?user=MatheusCastro99&theme=tokyonight&hide_border=true&background=0a1929&ring=0078d4&fire=50e6ff&currStreakLabel=50e6ff" alt="GitHub streak" />
 
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/0078d4/MatheusCastro99" alt="Contribution graph" width="90%" />
-
 </div>
 
 ---
