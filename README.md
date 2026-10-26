@@ -6,7 +6,7 @@
 <img src="assets/header.svg" width="100%" alt="Matheus Castro: From Air Defense to Software Engineering. .NET, Agentic Development, Web" />
 
 <a href="https://github.com/MatheusCastro99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+gather%2C+decide%2C+build%2C+review%2C+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+Scope%2C+Build%2C+Review%2C+Clean-up" alt="Typing SVG" />
 </a>
 
 ![Followers](https://img.shields.io/github/followers/MatheusCastro99?style=for-the-badge&logo=github&color=50e6ff&labelColor=0a1929)
@@ -70,22 +70,22 @@ public class Matheus : Developer
 
 ## `> cat ./how_i_build.md`
 
-Every issue moves through the same stages, with my approval at the gates that matter. The agent gathers, recommends and implements. An independent red-team subagent tries to break the change, and a historian subagent keeps the docs true before the merge.
+Every issue moves through the same stages, with my approval at the gates that matter. The agent gathers, recommends and implements. An independent red-team subagent tries to break the change, clean-up manages after merging procedures like memory management, local branches, issues checking, etc.
 
 ```mermaid
 flowchart TB
     subgraph build ["Build"]
         direction LR
-        A["Gather"] --> B["Decide"] --> C["Plan"] --> D["Implement"] --> E["Test"]
+        A["Scope"] --> B["Plan"] --> C["Build"] --> D["Test"]
     end
     subgraph ship ["Review and ship"]
         direction LR
-        F["PR + CI"] --> G(["Red-team"]) --> H["Fix"] --> I(["Historian"]) --> J["Merge"]
+        E["PR + CI"] --> F["Red-team"] --> G["Review"] --> H["Merge"] --> I["Clean-up"]
     end
     build --> ship
 ```
 
-<sub>The full workflow, with templates and real examples: [HarnessConfigAndWorkflow](https://github.com/MatheusCastro99/HarnessConfigAndWorkflow)</sub>
+<sub>A Full Harness Configuration example, for study purposes: [HarnessEngineering101](https://github.com/MatheusCastro99/HarnessEngineering101)</sub>
 
 ---
 
