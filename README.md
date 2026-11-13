@@ -6,11 +6,7 @@
 <img src="assets/header.svg" width="100%" alt="Matheus Castro: From Air Defense to Software Engineering. .NET, Agentic Development, Web" />
 
 <a href="https://github.com/MatheusCastro99">
-<<<<<<< HEAD
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+Scope%2C+Build%2C+Review%2C+Clean-up" alt="Typing SVG" />
-=======
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+Scope%2C+Build%2C+Review%2C+Clean-up+%E2%80%94+two+human+gates" alt="Typing SVG" />
->>>>>>> b923954 (Update featured projects and workflow section for ProdHarnessConfig)
 </a>
 
 ![Followers](https://img.shields.io/github/followers/MatheusCastro99?style=for-the-badge&logo=github&color=50e6ff&labelColor=0a1929)
@@ -76,24 +72,6 @@ public class Matheus : Developer
 
 ## `> cat ./how_i_build.md`
 
-<<<<<<< HEAD
-Every issue moves through the same stages, with my approval at the gates that matter. The agent gathers, recommends and implements. An independent red-team subagent tries to break the change, clean-up manages after merging procedures like memory management, local branches, issues checking, etc.
-
-```mermaid
-flowchart TB
-    subgraph build ["Build"]
-        direction LR
-        A["Scope"] --> B["Plan"] --> C["Build"] --> D["Test"]
-    end
-    subgraph ship ["Review and ship"]
-        direction LR
-        E["PR + CI"] --> F["Red-team"] --> G["Review"] --> H["Merge"] --> I["Clean-up"]
-    end
-    build --> ship
-```
-
-<sub>A Full Harness Configuration example, for study purposes: [HarnessEngineering101](https://github.com/MatheusCastro99/HarnessEngineering101)</sub>
-=======
 Every issue moves through the same four blocks, and I decide at two gates. The agent scopes the issue and recommends; I approve the plan. A forked Sonnet subagent builds it and opens a draft PR. A fresh Opus session briefs an independent, read-only red-team on that commit and brings me one report of findings to decide on. I merge by hand, then clean-up handles the after-merge housekeeping: memory, local branches, issue checks. Each block starts from a file, never from the whole conversation, and hooks enforce the rules a prompt can't.
 
 ```mermaid
@@ -108,7 +86,6 @@ flowchart LR
 ```
 
 <sub>The full workflow, with measured results: [ProdHarnessConfig](https://github.com/MatheusCastro99/ProdHarnessConfig). The ideas behind it: [HarnessEngineering101](https://github.com/MatheusCastro99/HarnessEngineering101)</sub>
->>>>>>> b923954 (Update featured projects and workflow section for ProdHarnessConfig)
 
 ---
 
