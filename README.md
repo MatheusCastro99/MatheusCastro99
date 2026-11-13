@@ -9,7 +9,7 @@
 <<<<<<< HEAD
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+Scope%2C+Build%2C+Review%2C+Clean-up" alt="Typing SVG" />
 =======
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+scope%2C+build%2C+review%2C+close+%E2%80%94+two+human+gates" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=50E6FF&center=true&vCenter=true&width=860&lines=%3E+Building+cross-platform+apps+with+.NET+MAUI;%3E+Shipping+full-stack+MERN+apps;%3E+Pairing+with+AI+Agents+%E2%80%94+Careful+productivity+%2F+reliability+balance;%3E+Every+issue%3A+Scope%2C+Build%2C+Review%2C+Clean-up+%E2%80%94+two+human+gates" alt="Typing SVG" />
 >>>>>>> b923954 (Update featured projects and workflow section for ProdHarnessConfig)
 </a>
 
@@ -94,7 +94,7 @@ flowchart TB
 
 <sub>A Full Harness Configuration example, for study purposes: [HarnessEngineering101](https://github.com/MatheusCastro99/HarnessEngineering101)</sub>
 =======
-Every issue moves through the same four blocks, and I decide at two gates. The agent scopes the issue and recommends; I approve the plan. A forked Sonnet subagent builds it and opens a draft PR. A fresh Opus session briefs an independent, read-only red-team on that commit and brings me one report of findings to decide on. I merge by hand. Each block starts from a file, never from the whole conversation, and hooks enforce the rules a prompt can't.
+Every issue moves through the same four blocks, and I decide at two gates. The agent scopes the issue and recommends; I approve the plan. A forked Sonnet subagent builds it and opens a draft PR. A fresh Opus session briefs an independent, read-only red-team on that commit and brings me one report of findings to decide on. I merge by hand, then clean-up handles the after-merge housekeeping: memory, local branches, issue checks. Each block starts from a file, never from the whole conversation, and hooks enforce the rules a prompt can't.
 
 ```mermaid
 flowchart LR
@@ -104,7 +104,7 @@ flowchart LR
     B --> C["Review"]
     C --> G2(["G2: PR review, CI, findings"])
     G2 -. Fix findings .-> B
-    G2 -- Merged --> D["Close"]
+    G2 -- Merged --> D["Clean-up"]
 ```
 
 <sub>The full workflow, with measured results: [ProdHarnessConfig](https://github.com/MatheusCastro99/ProdHarnessConfig). The ideas behind it: [HarnessEngineering101](https://github.com/MatheusCastro99/HarnessEngineering101)</sub>
@@ -137,7 +137,7 @@ while (learning)
     Scope();     // G1: I approve the plan
     Build();
     Review();    // G2: I decide the findings
-    Close();
+    CleanUp();
 }
 ```
 
